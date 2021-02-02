@@ -1,6 +1,6 @@
 {
   "name": "hypercore-default-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Default storage provider used by Hypercore",
   "main": "index.js",
   "dependencies": {
