@@ -4,7 +4,7 @@
   "description": "Default storage provider used by Hypercore",
   "main": "index.js",
   "dependencies": {
-    "random-access-file": "^2.1.3"
+    "random-access-file": "^2.1.5"
   },
   "devDependencies": {},
   "optionalDependencies": {
