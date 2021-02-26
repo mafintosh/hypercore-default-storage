@@ -8,14 +8,14 @@
   },
   "devDependencies": {},
   "optionalDependencies": {
-    "fd-lock": "^1.0.2"
+    "fsctl": "^1.0.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mafintosh/hypercore-default-storage.git"
   },
   "browser": {
-    "fd-lock": false
+    "fsctl": false
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
