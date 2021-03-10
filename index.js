@@ -6,7 +6,7 @@ let sparse = null
 try {
   const fsctl = require('fsctl')
   lock = fsctl.lock
-  sparse = fsctl.sparse
+  sparse = null // fsctl.sparse, disable until we investigate the regression on windows
 } catch (_) {}
 
 module.exports = defaultStorage
